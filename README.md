@@ -6,7 +6,7 @@
 🎓 &nbsp;I studied Odessa National Polytechnic University (Electrotechnical systems of electricity consumption (as per kinds)).\
 🎓 &nbsp;Finished courses of Hillel (IT School) by Front-End Basic, then Front-End PRO.\
 🌱 &nbsp;I'm on track for learning more about Flutter, Vue, and Nest.js.\
-✍️ &nbsp;In my free time, I improving my skills by learning somthin new.\
+✍️ &nbsp;In my free time, I improving my skills by learning something new.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me a message at @maksiemens! I'll try to respond as soon as I can.\
 
