@@ -1,5 +1,3 @@
-<h2>Hey there! I'm Maks</h2>
-
 ## 👋 &nbsp;Hey there! I'm Maks
 
 ### 👨🏻‍💻 &nbsp;About Me
