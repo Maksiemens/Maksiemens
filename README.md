@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Flutter, Vue, and Nest.js.\
 ✍️ &nbsp;In my free time, I improving my skills by learning something new.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me a message at @maksiemens! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me a message at <a href="https://telegram.im/@maksiemens">@maksiemens</a>. I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
