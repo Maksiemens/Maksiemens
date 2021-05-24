@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I studied Odessa National Polytechnic University (Electrotechnical systems of electricity consumption (as per kinds)).\
 🎓 &nbsp;Finished courses of Hillel (IT School) by Front-End Basic, then Front-End PRO.\
 🌱 &nbsp;I'm on track for learning more about Flutter, Vue, and Nest.js.\
